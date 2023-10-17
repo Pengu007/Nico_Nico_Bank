@@ -1,0 +1,11 @@
+{
+  "name": "Nico_Nico_Bank",
+  "version": "1.0.0",
+  "description": "<b><i>This project should not be modified in any way and used anywhere else without my permission.</b></i>\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \"Error: no test specified\" && exit 1\""
+  },
+  "author": "VED",
+  "license": "ISC"
+}
