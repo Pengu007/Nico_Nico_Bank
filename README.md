@@ -1,10 +1,10 @@
 ## Disclaimer
-<b><i>This project should not be modified in any way and used anywhere else without my permission.</b></i>
+<b><i>Plzz donot modify this project in any way and  shouldn't be used anywhere else without my permission.</b></i>
 
-If you use this project for illegal purposes after modifying the source code / or by any other means, remember that the original project and project owner has nothing to do with any of the  malicious purposes. Any loss of data or unauthorized access which happened because of such activities would not be my responsibility. Strict legal action would be taken if someone is found modifying it and using it for any unethical purpose.
+If you use this project for illegal purposes after modifying the source code or by any other means, remember that the original project and project owner have nothing to do with any of the malicious purposes. Any loss of data or unauthorized access that happens because of such activities would not be my responsibility. Strict legal action would be taken if someone is found modifying it and using it for any unethical purpose.
 
 # Nico Nico Bank
-Nico Nico Bank is a fictional Bank just made to show the working of an online-banking system integrated in an web-based system by a beautiful website. This project is made by taking the reference of different diferent projects and modules available online online and various of my sources also guided me of how to build this.
+Nico Nico Bank is a fictional Bank created to demonstrate the working of an online-banking system integrated into a web-based system through a beautiful website. This project is made by referencing different projects, modules available online, and various sources that guided me in building this.
 
 ## Built with
 <b>HTML5, CSS, JavaScript</b> & <b>jQuery</b> used for front-end design.
