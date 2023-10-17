@@ -15,7 +15,7 @@
         <a href="/beneficiary.php">Transfer Funds</a>
         <a href="/atm_simulator.php">ATM Simulator</a>
         <a id="label">Contact Us</a>
-        <a href="/grievance.php">Submit Griveance</a>
+        <a href="/contact.php">Submit Griveance</a>
     </div>
 
 <script>
