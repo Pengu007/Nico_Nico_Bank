@@ -23,35 +23,37 @@ coded from ground-up straight from scratch.
 
 ## How to build/use
 
-* Watch this whole video for proper Setup : ()
+* Watch the whole video for proper Setup : (https://youtu.be/ZTxt9ZqEbqs)
 
 * Setup an environment which supports web development like <b>LAMP</b> on <b>Linux</b> systems OR install <b>WampServer/XAMPP</b> or anything similar on <b>Windows</b>.
-MySQL should already be installed in your Device. If not, plzz Install it as it is the first step of all.
+MySQL should already be installed in your Device. If not, plzz Install it as it is the first step of all.(https://youtu.be/GtO-1LfxqOI)
 
-* A. Copy the folder [nico_nico_ni]() or the files in it to the location of the localhost. For example "C:/Xampp/htdocs/", the loaction of localhost in Windows if you are using XAMPP.
+* A. Copy the folder [nico_nico_ni](https://github.com/Pengu007/Nico_Nico_Bank/tree/main/nico_nico_ni) or the files in it to the location of the localhost. For example "C:/Xampp/htdocs/", the loaction of localhost in Windows if you are using XAMPP.
 
 OR
 
-B. You can Directlyy copy the htdocs file already givenin your "C:/Xampp/"and make that previous htdocs as htdocs_original so that if u want to remove our project, you can get your original htdocs back. Refer to this video for more clarification().
+B. (RECOMMENDED) You can Directlyy copy the htdocs file given already (https://github.com/Pengu007/Nico_Nico_Bank/tree/main/htdocs) in your "C:/Xampp/"and make your previous htdocs(of you PC) as htdocs_original so that if u want to remove our project, you can get your original htdocs back. Refer to this video for more clarification(https://youtu.be/ZTxt9ZqEbqs?si=9wT34vHb3x_MLv8p&t=789).
 
-* Import the [nico_bank.sql]() database into your MySQL setup. You can do it through phpMyAdmin also where you create new databse and name it, then on the above options select import and then in choose file option, choose our nico_bank.sql which u will be downloading from Github.Refer to this video for more clarification().
+* Edit the file [connect.php](https://github.com/Pengu007/Nico_Nico_Bank/blob/main/htdocs/connect.php) and give proper username and password of your MySQL setup.The default is "Y1" and "thedarklord007", change it with your's Username and pass that you use to login to your MySQL BUTT before that make sure that you login to MySQL through mysql -u root -p without any pass and make a user granting that user all privilages. Refer to this video for better clarification(https://youtu.be/ZTxt9ZqEbqs?si=toYA6taVwNpOky4s&t=1380).
 
-* Edit the file [connect.php]() and give proper username and password of your MySQL setup.The default is Y1 and thedarklord007, change it with your's Username and pass that you use to login to your MySQL BUTT before that make sure that you login to MySQL through mysql -u root -p without any pass and make a user granting that user all privilages. Refer to this video for better clarification(). 
+* Import the [nico_bank.sql](https://github.com/Pengu007/Nico_Nico_Bank/blob/main/nico_bank.sql) database into your MySQL setup. You can do it through phpMyAdmin also where you create new database and name it, then on the above options select import and then in choose file option, choose our "nico_bank.sql" file which u will be downloading from Github. Refer to this video for more clarification(https://youtu.be/ZTxt9ZqEbqs?si=MpK2HIRmCPgNj1mP&t=1865).
 
-* Open a browser and test wether the setup works or not by visiting the home page. Type "localhost/home.php" as the URL in the browser to visit the home page.
+* Open a browser and test wether the setup works or not by visiting the home page. Type "localhost/home.php" as the URL in the browser to visit the home page. And if facing some Error, then comment on any of our Video of our Video Series :) (https://youtube.com/playlist?list=PLegFcF7rtS9CwWriCFdh7h7C_Uc-V20DL&si=gbUClwrVQQfGT-En). We will try to help as much as possible.
 
-* All the passwords and the usernames of both the admin and the customer can be found in the database i.e. in the file [nico_bank.sql]().You can easily see these by opening nico_bank.sql through phpMyAdmin in "Customer" Tables.
+* All the passwords and the usernames of both the admin and the customer can be found in the database i.e. in the file [nico_bank.sql](https://github.com/Pengu007/Nico_Nico_Bank/blob/main/nico_bank.sql).You can easily see these by opening nico_bank.sql through phpMyAdmin in "Customer" Tables.
 
 
 Some useful links to help in proper setup :
-* [Installing XAMPP]()
-* [Making Connection]()
-* [Importing database in MySQL]()
+* [Installing MySQL](https://youtu.be/GtO-1LfxqOI)
+* [Installing XAMPP and GitBash](https://youtu.be/6kZXK1jk-IQ)
+* [Making Connection and Importing database in MySQL](https://youtu.be/ZTxt9ZqEbqs)
+* [Site Demo from and other stuffs](https://youtu.be/EIBjpJHYYr4)
 
 ## Details about the project
 All screenshots can be found [here]().
 
-The ER Diagram can also be found [here]().
+The ER Diagram can also be found [here](![nico-er-diagram](https://github.com/Pengu007/Nico_Nico_Bank/assets/131254857/695d61ac-4c03-4b29-850b-317355e2adfd)
+).
 
 ## Description of the various folders
 - <b>/nico-nico-ni :</b> Contains the source code of the website
