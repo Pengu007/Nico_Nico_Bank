@@ -32,7 +32,7 @@ MySQL should already be installed in your Device. If not, plzz Install it as it 
 
 OR
 
-B. (RECOMMENDED) You can Directlyy copy the htdocs file given already (https://github.com/Pengu007/Nico_Nico_Bank/tree/main/htdocs) in your "C:/Xampp/"and make your previous htdocs(of you PC) as htdocs_original so that if u want to remove our project, you can get your original htdocs back. Refer to this video for more clarification(https://youtu.be/ZTxt9ZqEbqs?si=9wT34vHb3x_MLv8p&t=789).
+* B. (RECOMMENDED) You can Directlyy copy the htdocs file given already (https://github.com/Pengu007/Nico_Nico_Bank/tree/main/htdocs) in your "C:/Xampp/"and make your previous htdocs(of you PC) as htdocs_original so that if u want to remove our project, you can get your original htdocs back. Refer to this video for more clarification(https://youtu.be/ZTxt9ZqEbqs?si=9wT34vHb3x_MLv8p&t=789).
 
 * Edit the file [connect.php](https://github.com/Pengu007/Nico_Nico_Bank/blob/main/htdocs/connect.php) and give proper username and password of your MySQL setup.The default is "Y1" and "thedarklord007", change it with your's Username and pass that you use to login to your MySQL BUTT before that make sure that you login to MySQL through mysql -u root -p without any pass and make a user granting that user all privilages. Refer to this video for better clarification(https://youtu.be/ZTxt9ZqEbqs?si=toYA6taVwNpOky4s&t=1380).
 
@@ -50,10 +50,9 @@ Some useful links to help in proper setup :
 * [Site Demo from and other stuffs](https://youtu.be/EIBjpJHYYr4)
 
 ## Details about the project
-All screenshots can be found [here]().
+All screenshots can be found [here](https://github.com/Pengu007/Nico_Nico_Bank/tree/main/Project_SC).
 
-The ER Diagram can also be found [here](![nico-er-diagram](https://github.com/Pengu007/Nico_Nico_Bank/assets/131254857/695d61ac-4c03-4b29-850b-317355e2adfd)
-).
+The ER Diagram can also be found [here](https://github.com/Pengu007/Nico_Nico_Bank/blob/main/Project_SC/nico-er-diagram.png).
 
 ## Description of the various folders
 - <b>/nico-nico-ni :</b> Contains the source code of the website
