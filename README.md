@@ -50,7 +50,7 @@ Some useful links to help in proper setup :
 * [Site Demo from and other stuffs](https://youtu.be/EIBjpJHYYr4)
 
 ## Details about the project
-All screenshots can be found [here](https://github.com/Pengu007/Nico_Nico_Bank/tree/main/Project_SC).
+All project screenshots can be found [here](https://github.com/Pengu007/Nico_Nico_Bank/tree/main/Project_SC).
 
 The ER Diagram can also be found [here](https://github.com/Pengu007/Nico_Nico_Bank/blob/main/Project_SC/nico-er-diagram.png).
 
