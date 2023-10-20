@@ -23,7 +23,7 @@ coded from ground-up straight from scratch.
 
 ## How to build/use
 
-* Watch the whole video for proper Setup [here](https://youtu.be/ZTxt9ZqEbqs)
+* Watch the whole video for proper Setup [here](https://youtu.be/ZTxt9ZqEbqs?si=FsGgs3Al3NwGb5XA)
 
 * Setup an environment which supports web development like <b>LAMP</b> on <b>Linux</b> systems OR install <b>WampServer/XAMPP</b> or anything similar on <b>Windows</b>.
 MySQL should already be installed in your Device. If not, plzz Install it as it is the first step of all. If need help, [here](https://youtu.be/GtO-1LfxqOI)
