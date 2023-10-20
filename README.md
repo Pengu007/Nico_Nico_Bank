@@ -60,4 +60,4 @@ The ER Diagram can also be found [here](https://github.com/Pengu007/Nico_Nico_Ba
     - <b>/nico-nico-ni/fonts :</b> Contains various fonts(.ttf files) used in the website
 
 ## Authors
-* [ved_Y1](https://github.com/Pengu007/)
+* [Ved_Y1](https://github.com/Pengu007/)
