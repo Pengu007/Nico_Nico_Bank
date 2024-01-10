@@ -54,6 +54,9 @@ All project screenshots can be found [here](https://github.com/Pengu007/Nico_Nic
 
 The ER Diagram can also be found [here](https://github.com/Pengu007/Nico_Nico_Bank/blob/main/Project_SC/nico-er-diagram.png).
 
+![GitHub Logo](https://github.com/Pengu007/Nico_Nico_Bank/blob/main/Project_SC/00.png)
+
+
 ## Description of the various folders
 - <b>/nico-nico-ni :</b> Contains the source code of the website
     - <b>/nico-nico-ni/images :</b> Contains various images and icon vectors used as resources in the website
